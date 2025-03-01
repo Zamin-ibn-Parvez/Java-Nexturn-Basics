@@ -1,3 +1,4 @@
+package TemperatureCategoryQues;
 import java.util.Scanner;
 
 public class TemperatureCategory {
