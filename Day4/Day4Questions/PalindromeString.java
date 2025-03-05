@@ -1,4 +1,5 @@
 package Day4Questions;
+
 import java.util.Scanner;
 
 public class PalindromeString {
