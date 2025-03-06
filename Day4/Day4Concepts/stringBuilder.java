@@ -1,4 +1,4 @@
-package Day4;
+package Day4Concepts;
 import java.lang.*;
 
 public class stringBuilder {

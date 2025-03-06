@@ -1,4 +1,4 @@
-package Day4;
+package Day4Concepts;
 
 public class stringpractice {
     public static void main(String[] args) {

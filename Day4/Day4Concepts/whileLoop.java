@@ -1,4 +1,4 @@
-package Day4;
+package Day4Concepts;
 import java.util.*;
 
 public class whileLoop {
