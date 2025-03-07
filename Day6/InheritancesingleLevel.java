@@ -1,7 +1,7 @@
 package Day6;
 
 class Animal{
-    void Animal(){
+    void animal(){
         System.out.println("This is an animal");
     }
 }
@@ -16,7 +16,7 @@ public class InheritancesingleLevel {
     public static void main(String[] args) {
         Cat cat = new Cat();
 
-        cat.Animal();
+        cat.animal();
     }
 }
 
